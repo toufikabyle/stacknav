@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/stacknav/static/js/app.04796d89.chunk.js",
+    "app.js.map": "/stacknav/static/js/app.04796d89.chunk.js.map",
+    "runtime~app.js": "/stacknav/static/js/runtime~app.dfe6f4a2.js",
+    "runtime~app.js.map": "/stacknav/static/js/runtime~app.dfe6f4a2.js.map",
+    "static/js/2.389b70f9.chunk.js": "/stacknav/static/js/2.389b70f9.chunk.js",
+    "static/js/2.389b70f9.chunk.js.map": "/stacknav/static/js/2.389b70f9.chunk.js.map",
+    "fonts/Feather.ttf": "/stacknav/./fonts/Feather.ttf",
+    "fonts/Ionicons.ttf": "/stacknav/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/stacknav/./fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "/stacknav/favicon-16.png",
+    "favicon-32.png": "/stacknav/favicon-32.png",
+    "favicon.ico": "/stacknav/favicon.ico",
+    "index.html": "/stacknav/index.html",
+    "manifest.json": "/stacknav/manifest.json",
+    "serve.json": "/stacknav/serve.json",
+    "static/js/2.389b70f9.chunk.js.LICENSE.txt": "/stacknav/static/js/2.389b70f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.dfe6f4a2.js",
+    "static/js/2.389b70f9.chunk.js",
+    "static/js/app.04796d89.chunk.js"
+  ]
+}
